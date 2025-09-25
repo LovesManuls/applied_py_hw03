@@ -1,0 +1,11 @@
+alembic~=1.14.1
+fastapi
+psycopg2-binary
+python-dotenv
+sqlalchemy~=2.0.37
+fastapi-users[sqlalchemy]
+pydantic
+uvicorn
+asyncpg
+httpx
+
